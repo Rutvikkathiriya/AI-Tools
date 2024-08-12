@@ -701,7 +701,7 @@ border-radius: 20px;
 .tf__work_process_img::after {
   position: absolute;
   content: "";
-  background: url(../images/work_img-2.jpg);
+  background: url(../images/about-us.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
